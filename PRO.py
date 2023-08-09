@@ -4,6 +4,5 @@ bit=platform.architecture()[0]
 if bit=="32bit":
     print('Sorry 32 Bit Not Supported...')
 elif bit=="64bit":
-    <module>
-     __import__("Cyber")
+  module__import__("Cyber")
  
